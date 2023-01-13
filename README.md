@@ -27,6 +27,6 @@ Apaixonado por tecnologia, sempre buscando aperfeiçoar meus conhecimentos e hab
 
 <div align="center">
 
-  ![Snake animation](https://github.com/rodrigmeira/rodrigmeira2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rodrigmeira/rodrigmeira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
