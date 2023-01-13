@@ -6,7 +6,6 @@
 
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigmeira&show_icons=true&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigmeira&langs_count=8)](https://github.com/rodrigmeira/github-readme-stats)
 
 ### Tecnologias que utilizo no meu dia 👨‍💻🌟
