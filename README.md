@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigmeira)
 
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigmeira&show_icons=true&theme=tokyonight)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigmeira&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigmeira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigmeira&langs_count=8)](https://github.com/rodrigmeira/github-readme-stats)
 
 ### Tecnologias que utilizo no meu dia 👨‍💻🌟
 
