@@ -25,8 +25,3 @@
 
 Apaixonado por tecnologia, sempre buscando aperfeiçoar meus conhecimentos e habilidades para atingir minha meta de ser um Dev FullStack!
 
-<div align="center">
-
-  ![snake gif](https://github.com/rodrigmeira/rodrigmeira/blob/main/.github/workflows/main.yml)
-  
-</div>
