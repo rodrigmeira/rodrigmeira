@@ -20,3 +20,8 @@
 
 Apaixonado por tecnologia, sempre buscando aperfeiçoar meus conhecimentos e habilidades para atingir minha meta de ser um Dev FullStack!
 
+<div align="center">
+
+  ![Snake animation](https://github.com/rodrigmeira/rodrigmeira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
