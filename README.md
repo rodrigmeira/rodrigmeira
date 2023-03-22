@@ -19,7 +19,7 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
 Apaixonado por tecnologia, sempre buscando aperfeiçoar meus conhecimentos e habilidades para atingir minha meta de ser um Dev FullStack!
