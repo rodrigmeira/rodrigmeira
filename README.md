@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AEBAE&height=120&section=header"/>
-### Olá! Eu me chamo Rodrigo Brandão 👋
+    <h1>Olá! Eu me chamo Rodrigo Brandão 👋</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brandão-0a8b23240/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigmeira)
