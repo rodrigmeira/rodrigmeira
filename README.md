@@ -1,31 +1,44 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=34F72E&center=true&vCenter=true&random=false&width=600&lines=Hi+There!%F0%9F%91%8B+;I'm+Rodrigo+Brand%C3%A3o!"
+</h1>
+
+<h3 align="center">A passionate software developer from Brazil!</h3>
+
+<br/>
+
 <div align="center">
+ 
+ 🌱 I’m currently learning **TypeScript, NextJS, React Native Expo**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AEBAE&height=120&section=header"/>
-    <h1>Olá! Eu me chamo Rodrigo Brandão 👋</h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brandão-0a8b23240/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigmeira)
-
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigmeira&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigmeira&langs_count=8)](https://github.com/rodrigmeira/github-readme-stats)
+ ⚡ Fun fact **The Eiffel Tower can be 15 centimeters taller during the summer**
+ 
 </div>
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/rodrigmeira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-
-### Tecnologias que utilizo no meu dia 👨‍💻🌟
-
+    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,typescript,nodejs,tailwind,react,express,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
 </div>
-<div align="center" style="display: inline_block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="SASS" src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white />
-    <img align="center" alt="NODE" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
-    <img align="center" alt="TAILWIND" src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white />
-    <img align="center" alt="FRAMER" src=https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue />
-</div><br/>
 
-Apaixonado por tecnologia, sempre buscando aperfeiçoar meus conhecimentos e habilidades para atingir minha meta de ser um Dev FullStack!
+<br/>
+<hr/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AEBAE&height=120&section=footer"/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=rodrigmeira&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rodrigmeira&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rodrigmeira&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<hr/>
